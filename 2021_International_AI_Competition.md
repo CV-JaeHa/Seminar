@@ -48,7 +48,7 @@ one level 응용서비스는 그냥 1차원적으로 인공지능을 위성 영�
 
 ## Ovision
 ---
-![SIA](https://images.velog.io/images/taki0412/post/f170edcc-c2a2-4879-ba7c-8e5fd0461c58/SIA.png)
+![SIA](https://media.vlpt.us/images/taki0412/post/f170edcc-c2a2-4879-ba7c-8e5fd0461c58/SIA.png)
 위성영상 AI 분석 플랫폼
 - AI 판독 결과 실시간 모니터링
     - 여러 출처의 위성영상을 ai가 실시간으로 판독
@@ -125,6 +125,8 @@ SIA에서는 [Ovision](https://www.si-analytics.ai/sub010103) 을 중심으로 �
 
 마무리로 세미나 정리한 노션 첨부하고 이만 줄이도록 하겠다.
 --- 
-SIA 세미나 정리 : [https://www.notion.so/taki0412/SIA-32daaef487f64587bd569b12758f8f3e](https://www.notion.so/taki0412/SIA-32daaef487f64587bd569b12758f8f3eㄴ)
+SIA 세미나 정리 : [https://www.notion.so/taki0412/SIA-32daaef487f64587bd569b12758f8f3e](https://www.notion.so/taki0412/SIA-32daaef487f64587bd569b12758f8f3e)
 MS 세미나 정리 : [https://www.notion.so/taki0412/MS-055572b1683c40ab8c09c340cbdbcd3d](https://www.notion.so/taki0412/MS-055572b1683c40ab8c09c340cbdbcd3d)
+
+Velog : [https://velog.io/@taki0412/2021-국제인공지능대전-후기](https://velog.io/@taki0412/2021-국제인공지능대전-후기)
 
